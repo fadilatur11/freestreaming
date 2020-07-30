@@ -17,18 +17,11 @@
 			<div class="col-md-12 col-sm-12 col-xs-12">
 				<div class="blog-detail-ct">
 					@if ($detail['type'] == 2)
-					<iframe src="{{$detail['url']}}" autostart="true" volume="100" class="videokotak" allowfullscreen></iframe>
+					<iframe src="{{$detail['url']}}" class="videokotak" allowfullscreen></iframe>
+					
 					@else
 					<video controls class="fitkotak"></video>
 					@endif
-					
-					<div class="flex-it flex-ct">
-						<p>
-							Enjoy the show !!!
-						</p>
-						<img src="images/uploads/blog-detail2.jpg" alt="">
-					</div>
-					
 					<!-- share link -->
 					<div class="flex-it share-tag">
 						<div class="social-link">

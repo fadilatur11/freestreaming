@@ -5,11 +5,21 @@
 <head>
 	<!-- Basic need -->
 	<title>STREAMING GRATIS</title>
-	<meta charset="UTF-8">
-	<meta name="description" content="Streaming Gratis, Streaming Tv Indonesia, Streaming Online, Streaming Lengkap">
-	<meta name="keywords" content="Streaming Gratis, Streaming Tv Indonesia, Streaming Online, Streaming Lengkap">
-	<meta name="author" content="anonym">
-	<link rel="profile" href="#">
+	<meta name="title" content="STREAMING GRATIS ONLINE, STREAMING TV INDONESIA, STREAMING MOVIES">
+	<meta name="description" content="Streaming Gratis Online, Streaming tv Indonesia, Streaming Movies, Streaming video">
+	<meta name="keywords" content="Streaming Gratis Online, Streaming tv Indonesia, Streaming Movies, Streaming video, tv indonesia">
+	<meta name="robots" content="index, follow, noodp">
+	<meta itemprop="name" content="Streaming Gratis Online, Streaming tv Indonesia, Streaming Movies, Streaming video, tv indonesia">
+	<meta itemprop="description" content="Streaming Gratis Online, Streaming tv Indonesia, Streaming Movies, Streaming video, tv indonesia">
+	<meta itemprop="image" content="{{asset('storage/livestreaming.jpg')}}" alt="Streaming Gratis Online, Streaming tv Indonesia, Streaming Movies, Streaming video, tv indonesia">
+	<meta property="og:url" content="{{url()->current()}}">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="Streaming Gratis Online, Streaming tv Indonesia, Streaming Movies, Streaming video, tv indonesial">
+	<meta property="og:description" content="Streaming Gratis Online, Streaming tv Indonesia, Streaming Movies, Streaming video, tv indonesia">
+	<meta property="og:image" content="{{asset('storage/livestreaming.jpg')}}" alt="Streaming Gratis Online, Streaming tv Indonesia, Streaming Movies, Streaming video, tv indonesia">
+	<meta property="og:image:type" content="image/jpg" />
+	<meta property="og:image:width" content="600" />
+	<meta property="og:image:height" content="315" />
 
     <!--Google Font-->
     <link rel="stylesheet" href='http://fonts.googleapis.com/css?family=Dosis:400,700,500|Nunito:300,400,600' />

@@ -4366,7 +4366,7 @@ ul {
 }
 @media (max-width: 991px) {
   .movie-item-style-1 .hvr-inner {
-    margin-left: 0;
+    margin-left: 25px;
   }
 }
 .movie-item-style-1 .hvr-inner a {
@@ -8289,11 +8289,13 @@ footer.full-width-ft .ft-copyright {
 }
 .videokotak{
   width: 100%;
-  height: 650px;
-  object-fit: cover;
+  height: 630px;
+  position: relative;
+  object-fit: contain;
 }
 .fitkotak{
     width: 100%;
     position: relative;
-    object-fit: cover;
+    height: 100%;
+    object-fit: contain;
 }
